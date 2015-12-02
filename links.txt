@@ -1,0 +1,1 @@
+http://javapapers.com/web-service/restful-services-crud-with-java-jax-rs-jersey/
